@@ -5,7 +5,7 @@ It was a project from [this](https://www.udemy.com/the-web-developer-bootcamp/) 
 
 ## Start the game
 
-Access the game through [this](https://www.udemy.com/the-web-developer-bootcamp/) link or download the repo.
+Access the game through [this](http://web.tecnico.ulisboa.pt/~ist186512/projects/color-game/) link or download the repo.
 If you downloaded the repo, make sure that there is a browser installed on your computer and start the game by running the HTML file with it.
 
 ## Rules
